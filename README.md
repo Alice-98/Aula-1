@@ -1,1 +1,2 @@
-# Aula-1
+# A1-Econometria
+# Econometria Avançada Aula 1
